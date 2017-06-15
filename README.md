@@ -4,7 +4,7 @@ Test Pilot assets &amp; measurements
 ### Test Pilot Website
 [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
 
-* [#2418 News summary](Test%20Pilot%20Website/#2418%20News%20summary)
+* [#2418 News summary](Test%20Pilot%20Website/%232418%20News%20summary)
 
 ### Firefox Screenshots
 [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
