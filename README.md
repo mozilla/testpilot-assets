@@ -5,6 +5,7 @@ Test Pilot assets &amp; measurements
 [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
 
 * [#2418 News summary](Test%20Pilot%20Website/%232418%20News%20summary)
+* [#2419 News alerts Badge](Test%20Pilot%20Website/%232419%20News%20alerts%20Badge)
 
 ### Firefox Screenshots
 [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
