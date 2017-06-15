@@ -25,7 +25,7 @@
     * [https://github.com/mozilla/speaktome](https://github.com/mozilla/speaktome)
 * Measurements:
     * [UI Measurements](Speak_To_Me/01_Measurements)
-    * [UI Assets](Speak_To_Me/00_Assets)
+    * [UI Assets](https://github.com/youwenliang/testpilot-assets/tree/master/Speak_To_Me/00_Assets)
 
 ---
 ## Containers
