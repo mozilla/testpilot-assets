@@ -2,6 +2,7 @@
 Test Pilot assets &amp; measurements
 
 ### Test Pilot Website
+[News Feed](Test_Pilot_Website/News_Feed)
 
 ### Firefox Screenshots
 
