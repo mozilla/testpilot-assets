@@ -10,11 +10,15 @@ Test Pilot assets &amp; measurements
 ### Firefox Screenshots
 (https://github.com/mozilla-services/screenshots)
 
-### New Experiments
-- File Transfer (https://github.com/mozilla/something-awesome)
-- Speak To Me (https://github.com/mozilla/speaktome)
+### File Transfer 
+(https://github.com/mozilla/something-awesome)
 
-### Current Experiments
-- Containers (https://github.com/mozilla/testpilot-containers)
-- Min Vid (https://github.com/meandavejustice/min-vid)
+### Speak To Me 
+(https://github.com/mozilla/speaktome)
+
+### Containers
+(https://github.com/mozilla/testpilot-containers)
+
+### Min Vid 
+(https://github.com/meandavejustice/min-vid)
 
