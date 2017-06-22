@@ -8,6 +8,7 @@
     * [#2419 News alerts modal](Test_Pilot_Website/2419_News_alerts_Modal)
     * [#2419 News alerts modal-enabled](Test_Pilot_Website/2419_News_alerts_Modal_Enabled)
     * [#2420 New feature page filter](Test_Pilot_Website/2420_New_feature_page_filter)
+    * [Test Pilot Web Experiments](Test_Pilot_Website/01_Measurements)
 
 ---
 ## Firefox Screenshots
