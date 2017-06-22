@@ -15,7 +15,7 @@
 * Github Repo: 
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
 * Measurements:
-    * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
+    * [#2157 Save full page](Firefox_Screenshots/Save_Fullpage)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
