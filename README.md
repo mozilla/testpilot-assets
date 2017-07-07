@@ -21,10 +21,11 @@
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
-## File Transfer 
+## Send 
 * Github Repo: 
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
-
+* Measurements:
+    * [UI Measurements](Send/01_Measurements)
 ---
 ## Speak To Me 
 * Github Repo: 
