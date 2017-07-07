@@ -25,7 +25,7 @@
 * Github Repo: 
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
-    * [UI Measurements](File Transfer/01_Measurements)
+    * [UI Measurements](File_Transfer/01_Measurements)
 ---
 ## Speak To Me 
 * Github Repo: 
