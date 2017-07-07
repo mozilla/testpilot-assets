@@ -25,6 +25,7 @@
 * Github Repo: 
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
+    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/File_Transfer/00_Assets)
     * [01 Homepage](File_Transfer/Send_01_homepage)
     * [02 Homepage drag file](File_Transfer/Send_02_homepage_drag_file)
     * [03 Uploading file](File_Transfer/Send_03_uploading_file)
