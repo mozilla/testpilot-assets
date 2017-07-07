@@ -36,6 +36,7 @@
     * [09 Error page](File_Transfer/Send_09_error_page)
     * [10 Link expired](File_Transfer/Send_10_link_expired)
     * [11 Support](File_Transfer/Send_11_support)
+    * [12 History](File_Transfer/Send_12_history)
 
 ---
 ## Speak To Me 
