@@ -26,6 +26,16 @@
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [01 homepage](File_Transfer/Send_01_homepage)
+    * [02 homepage_drag_file](File_Transfer/Send_02_homepage_drag_file)
+    * [03 uploading_file](File_Transfer/Send_03_uploading_file)
+    * [04 uploading_large_file](File_Transfer/Send_04_uploading_large_file)
+    * [05 copy_link](File_Transfer/Send_05_copy_link)
+    * [06 copy_link_finished](File_Transfer/Send_06_copy_link_finished)
+    * [07 download_file](File_Transfer/Send_07_download_file)
+    * [08 download_file_encrypted](File_Transfer/Send_08_download_file_encrypted)
+    * [09 error_page](File_Transfer/Send_09_error_page)
+    * [10 link_expired](File_Transfer/Send_10_link_expired)
+    * [11 support](File_Transfer/Send_11_support)
 
 ---
 ## Speak To Me 
