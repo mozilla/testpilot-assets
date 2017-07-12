@@ -22,23 +22,23 @@
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
-## File Transfer 
+## Send 
 * Github Repo: 
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
-    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/File_Transfer/00_Assets)
-    * [01 Homepage](File_Transfer/Send_01_homepage)
-    * [02 Homepage drag file](File_Transfer/Send_02_homepage_drag_file)
-    * [03 Uploading file](File_Transfer/Send_03_uploading_file)
-    * [04 Uploading large file](File_Transfer/Send_04_uploading_large_file)
-    * [05 Copy link](File_Transfer/Send_05_copy_link)
-    * [06 Copy link finished](File_Transfer/Send_06_copy_link_finished)
-    * [07 Download file](File_Transfer/Send_07_download_file)
-    * [08 Download file encrypted](File_Transfer/Send_08_download_file_encrypted)
-    * [09 Error page](File_Transfer/Send_09_error_page)
-    * [10 Link expired](File_Transfer/Send_10_link_expired)
-    * [11 Support](File_Transfer/Send_11_support)
-    * [12 History](File_Transfer/Send_12_history)
+    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
+    * [01 Homepage](Send/Send_01_homepage)
+    * [02 Homepage drag file](Send/Send_02_homepage_drag_file)
+    * [03 Uploading file](Send/Send_03_uploading_file)
+    * [04 Uploading large file](Send/Send_04_uploading_large_file)
+    * [05 Copy link](Send/Send_05_copy_link)
+    * [06 Copy link finished](Send/Send_06_copy_link_finished)
+    * [07 Download file](Send/Send_07_download_file)
+    * [08 Download file encrypted](Send/Send_08_download_file_encrypted)
+    * [09 Error page](Send/Send_09_error_page)
+    * [10 Link expired](Send/Send_10_link_expired)
+    * [11 Support](Send/Send_11_support)
+    * [12 History](Send/Send_12_history)
 
 ---
 ## Speak To Me 
