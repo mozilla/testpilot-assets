@@ -27,7 +27,7 @@
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
-    * [Logo design](Send/Send_logo_design)
+    * [00 Logo design](Send/Send_logo_design)
     * [01 Homepage](Send/Send_01_homepage)
     * [02 Homepage drag file](Send/Send_02_homepage_drag_file)
     * [03 Uploading file](Send/Send_03_uploading_file)
