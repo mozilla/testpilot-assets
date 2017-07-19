@@ -27,7 +27,7 @@
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
-    * [00 Send Logo](Send/Send_logo%20design)
+    * [Logo design](Send/Send_logo_design)
     * [01 Homepage](Send/Send_01_homepage)
     * [02 Homepage drag file](Send/Send_02_homepage_drag_file)
     * [03 Uploading file](Send/Send_03_uploading_file)
@@ -40,7 +40,6 @@
     * [10 Link expired](Send/Send_10_link_expired)
     * [11 Support](Send/Send_11_support)
     * [12 History](Send/Send_12_history)
-    * [Logo design](Send/Send_logo_design)
 
 ---
 ## Speak To Me 
