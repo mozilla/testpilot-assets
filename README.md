@@ -40,7 +40,7 @@
     * [10 Link expired](Send/Send_10_link_expired)
     * [11 Support](Send/Send_11_support)
     * [12 History](Send/Send_12_history)
-    * [Logo design](Send/Send_logo design)
+    * [Logo design](Send/Send_logo design)
 
 ---
 ## Speak To Me 
