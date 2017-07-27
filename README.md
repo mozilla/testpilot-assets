@@ -40,7 +40,7 @@
     * [10 Link expired](Send/Send_10_link_expired)
     * [11 Support](Send/Send_11_support)
     * [12 History](Send/Send_12_history)
-    * [13 Delete dialogue](Send/Send_13_delete dialog)
+    * [13 Delete dialogue](Send/Send_13_delete_dialog)
 
 ---
 ## Speak To Me 
