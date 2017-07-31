@@ -13,6 +13,15 @@
 
 
 ---
+## Test Pilot Contribute (good-first-bug)
+* Github Repo: 
+    * [https://github.com/chuckharmston/testpilot-contribute/](https://github.com/chuckharmston/testpilot-contribute/)
+* Measurements:
+    * [UI Measurements](Test_Pilot_Contribute/01_Measurements/)
+    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Test_Pilot_Contribute/00_Assets)
+
+
+---
 ## Firefox Screenshots
 * Github Repo: 
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
