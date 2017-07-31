@@ -28,6 +28,7 @@
 * Measurements:
     * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
     * [#3080 FxA support](Firefox_Screenshots/FxA_Integration)
+    * [#3112 Annotation](Firefox_Screenshots/Annotation)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
