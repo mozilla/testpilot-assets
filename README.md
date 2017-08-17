@@ -10,6 +10,7 @@
     * [#2420 New feature page filter](Test_Pilot_Website/2420_New_feature_page_filter)
     * [Test Pilot Web Experiments - Measurements](Test_Pilot_Website/01_Measurements/Web_experiments.png)
     * [Test Pilot Web Experiments - Assets](https://github.com/mozilla/testpilot-assets/tree/master/Test_Pilot_Website/00_Assets)
+    * [Photonized_Testpilot_Homepage](Test_Pilot_Website/01_Measurements/)
 
 
 ---
