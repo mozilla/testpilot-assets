@@ -2,7 +2,7 @@
 * Github Repo: 
     * [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
 * Measurements:
-    * [UI Assets](Test_Pilot_Website/00_Assets/Photonized_homepage/)
+    
     * [#2418 News summary](Test_Pilot_Website/2418_News_summary)
     * [#2418 News summary-hover](Test_Pilot_Website/2418_News_summary_hover)
     * [#2419 News alerts badge](Test_Pilot_Website/2419_News_alerts_Badge)
@@ -12,6 +12,7 @@
     * [Test Pilot Web Experiments - Measurements](Test_Pilot_Website/01_Measurements/Web_experiments.png)
     * [Test Pilot Web Experiments - Assets](https://github.com/mozilla/testpilot-assets/tree/master/Test_Pilot_Website/00_Assets)
     * [Photonized_Testpilot_Homepage](Test_Pilot_Website/01_Measurements/Photonized_Testpilot_Homepage/)
+    * [UI Assets](Test_Pilot_Website/00_Assets/Photonized_homepage/)
 
 
 ---
