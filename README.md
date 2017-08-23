@@ -54,6 +54,9 @@
     * [11 Support](Send/Send_11_support)
     * [12 History](Send/Send_12_history)
     * [13 Delete dialogue](Send/Send_13_delete_dialogue)
+    * [Send New_Features](Send/Send_New_Features)
+    * [Send_Password_Proposal1](Send/Send_Password_1)
+    * [Send_Password_Proposal2](Send/Send_Password_2)
 
 ---
 ## Speak To Me 
