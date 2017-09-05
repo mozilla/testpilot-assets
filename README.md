@@ -32,6 +32,7 @@
     * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
     * [#3080 FxA support](Firefox_Screenshots/FxA_Integration)
     * [#3112 Annotation](Firefox_Screenshots/Annotation)
+    * [#3253 Cross Promotional](Firefox_Screenshots/Cross-promotional)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
