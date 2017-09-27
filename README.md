@@ -11,7 +11,9 @@
     * [#2420 New feature page filter](Test_Pilot_Website/2420_New_feature_page_filter)
     * [Test Pilot Web Experiments - Measurements](Test_Pilot_Website/01_Measurements/Web_experiments.png)
     * [Test Pilot Web Experiments - Assets](https://github.com/mozilla/testpilot-assets/tree/master/Test_Pilot_Website/00_Assets)
-    * [Photonized_Testpilot_Homepage](Test_Pilot_Website/01_Measurements/Photonized_Testpilot_Homepage/)
+    * [Photonized Component](Test_Pilot_Website/01_Measurements/Component_20170927/)
+    * [Photonized Homepage](Test_Pilot_Website/01_Measurements/Homepage_20170927/)
+    * [Photonized Detailpage](Test_Pilot_Website/01_Measurements/Detailpage_20170927/)
     
 
 
