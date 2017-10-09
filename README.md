@@ -36,6 +36,8 @@
     * [#3080 FxA support](Firefox_Screenshots/FxA_Integration)
     * [#3112 Annotation](Firefox_Screenshots/Annotation)
     * [#3253 Cross Promotional](Firefox_Screenshots/Cross-promotional)
+    * [#3467 Cancel Shots](Firefox_Screenshots/FFSS-3467)
+    * [#3574 Download-Only Mode](Firefox_Screenshots/FFSS-3574)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
