@@ -39,6 +39,8 @@
     * [#3467 Cancel Shots](Firefox_Screenshots/FFSS-3467)
     * [#3574 Download-Only Mode](Firefox_Screenshots/FFSS-3574)
     * [#3391 Paginate My Shots page](Firefox_Screenshots/FFSS_Pagination)
+    * [#2582 Add option to Copy image](Firefox_Screenshots/FFSS_Copy)
+    * [#3500 Indefinitely Indicator](Firefox_Screenshots/FFSS_Indicator)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
