@@ -38,6 +38,7 @@
     * [#3253 Cross Promotional](Firefox_Screenshots/Cross-promotional)
     * [#3467 Cancel Shots](Firefox_Screenshots/FFSS-3467)
     * [#3574 Download-Only Mode](Firefox_Screenshots/FFSS-3574)
+    * [#3391 Paginate My Shots page](Firefox_Screenshots/FFSS_Pagination)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
