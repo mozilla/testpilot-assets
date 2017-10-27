@@ -15,7 +15,7 @@
     * [Photonized Component](Test_Pilot_Website/01_Measurements/Component_20171003/)
     * [Photonized Homepage](Test_Pilot_Website/01_Measurements/Homepage_20170927/)
     * [Photonized Detailpage](Test_Pilot_Website/01_Measurements/Detailpage_20170927/)
-    * [Featured Experiment](Test_Pilot_Website/01_Measurements/Featured experiment/ )
+    * [Featured Experiment](Test_Pilot_Website/01_Measurements/Featured_experiment/)
     
 
 
