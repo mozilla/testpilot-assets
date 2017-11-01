@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_rightarrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07.Featured-experiment_txp-news-feed" transform="translate(-1027.000000, -329.000000)" fill="#FFFFFF">
+            <g id="arrow" transform="translate(1018.000000, 329.000000)">
+                <g id="icon_rightarrow" transform="translate(9.000000, 0.000000)">
+                    <path d="M1.5,21 C1.116,21 0.732,20.853 0.4395,20.5605 C-0.147,19.974 -0.147,19.026 0.4395,18.4395 L8.379,10.5 L0.4395,2.5605 C-0.147,1.974 -0.147,1.026 0.4395,0.4395 C1.026,-0.147 1.974,-0.147 2.5605,0.4395 L11.5605,9.4395 C12.147,10.026 12.147,10.974 11.5605,11.5605 L2.5605,20.5605 C2.268,20.853 1.884,21 1.5,21" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
