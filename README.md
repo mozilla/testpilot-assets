@@ -20,7 +20,7 @@
     * [Featured experiment Photonized](Test_Pilot_Website/01_Measurements/Featured_experiment_photonized/)
     * [#2956 modal Photon Styles](Test_Pilot_Website/01_Measurements/Modal_Photon_Styles/)
     * [Photonized TxP Website Final](Test_Pilot_Website/01_Measurements/Photonized_Txp_Website_Final/)
-    * [Featured Experiment StickyBanner](Test_Pilot_Website/01_Measurements/Featured_experiment_sticky_banner/)
+    * [Featured Experiment Sticky Banner](Test_Pilot_Website/01_Measurements/Featured_experiment_sticky_banner/)
 
 
 ---
