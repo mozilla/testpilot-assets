@@ -89,9 +89,13 @@
 ## Min Vid 
 * Github Repo: 
     * [https://github.com/meandavejustice/min-vid](https://github.com/meandavejustice/min-vid)
+
 ---
 ## Tab Split
 * Github Repo: 
+   * [https://github.com/mozilla/tab-split](https://github.com/mozilla/tab-split)
+* Measurements:
+   * [UI Measurements](Tab_Split/Tab_Split_visual_spec)
 
 ---
 ## ThemesRFun
