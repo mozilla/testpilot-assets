@@ -95,6 +95,7 @@
 * Github Repo: 
    * [https://github.com/mozilla/tab-split](https://github.com/mozilla/tab-split)
 * Measurements:
+   * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Tab_Split/Tab_Split_visual_spec/assets)
    * [UI Measurements](Tab_Split/Tab_Split_visual_spec)
 
 ---
