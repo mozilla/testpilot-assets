@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17" cy="17" r="17"></circle>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final_Main-view_tab2_popular-theme_seleted" transform="translate(-160.000000, -413.000000)">
+            <g id="panel_left" transform="translate(0.000000, 200.000000)">
+                <g id="Group" transform="translate(60.000000, 202.000000)">
+                    <g id="check" transform="translate(103.000000, 14.000000)">
+                        <g id="Oval-3-Copy">
+                            <use fill="#0088E7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <circle stroke="#FFFFFF" stroke-width="3" cx="17" cy="17" r="18.5"></circle>
+                        </g>
+                        <path d="M15.4211531,23.0196732 C15.0468154,23.0195951 14.6877215,22.8713733 14.4223161,22.6073872 L9.43521455,17.6486215 C9.06604451,17.2939136 8.91695284,16.7676332 9.04522803,16.2720025 C9.17350308,15.7763719 9.55918851,15.3884983 10.0540855,15.2574211 C10.5489824,15.1263439 11.0760979,15.2724556 11.4328887,15.639613 L15.4169028,19.6066256 L23.5974494,11.3991599 C24.1525998,10.861396 25.0363145,10.8677997 25.5836133,11.4135524 C26.1309121,11.9593052 26.1398158,12.8429982 25.6036243,13.3996677 L16.4242406,22.608804 C16.1575606,22.8733115 15.79676,23.0210972 15.4211531,23.0196732 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

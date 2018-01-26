@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.497259795">
+        <g id="Final_Main-view_tab2" transform="translate(-255.000000, -628.000000)" fill="#4A4A4A">
+            <g id="panel_left" transform="translate(0.000000, 200.000000)">
+                <g id="Group-10" transform="translate(255.000000, 428.000000)">
+                    <path d="M1.25023436,17.7264814 C0.930254359,17.7264814 0.610274358,17.6023982 0.366539591,17.3554981 C-0.122179864,16.8604316 -0.122179864,16.0602219 0.366539591,15.5651554 L6.9823761,8.86339896 L0.366539591,2.16164249 C-0.122179864,1.66657603 -0.122179864,0.866366307 0.366539591,0.371299846 C0.855259046,-0.123766615 1.64520967,-0.123766615 2.13392913,0.371299846 L9.63346041,7.96822764 C10.1221799,8.4632941 10.1221799,9.26350382 9.63346041,9.75857028 L2.13392913,17.3554981 C1.89019436,17.6023982 1.57021436,17.7264814 1.25023436,17.7264814" id="Fill-1" transform="translate(5.000000, 8.863241) scale(-1, 1) translate(-5.000000, -8.863241) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
