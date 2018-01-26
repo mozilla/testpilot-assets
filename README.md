@@ -101,6 +101,10 @@
 ---
 ## ThemesRFun
 * Github Repo: 
+   * [https://github.com/mozilla/ThemesRFun/](https://github.com/mozilla/ThemesRFun/)
+* Measurements:
+   * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/ThemesRFun/00_Assets)
+   * [UI Measurements](ThemesRFun/01_Measurements/ThemesRFun)
 
 
 
