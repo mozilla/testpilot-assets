@@ -40,6 +40,7 @@
     * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
     * [#3080 FxA support](Firefox_Screenshots/FxA_Integration)
     * [#3112 Annotation](Firefox_Screenshots/Annotation)
+    * [#4022 Annotation Color Picker](Firefox_Screenshots/Annotation/Annotation-color%20picker)
     * [#3253 Cross Promotional](Firefox_Screenshots/Cross-promotional)
     * [#3467 Cancel Shots](Firefox_Screenshots/FFSS-3467)
     * [#3574 Download-Only Mode](Firefox_Screenshots/FFSS-3574)
