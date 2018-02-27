@@ -37,6 +37,7 @@
 * Github Repo: 
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
 * Measurements:
+    * [Annotation Icon & Spacing](Firefox_Screenshots/Annotation-icon-spacing)
     * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
     * [#3080 FxA support](Firefox_Screenshots/FxA_Integration)
     * [#3112 Annotation](Firefox_Screenshots/Annotation)
