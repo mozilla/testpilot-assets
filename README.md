@@ -109,6 +109,8 @@
    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/ThemesRFun/00_Assets)
    * [UI Measurements](ThemesRFun/01_Measurements/ThemesRFun)
    * [#29 Feedback Button](ThemesRFun/01_Measurements/ThemeRFun_feedback)
+   * [#18 Themer Icon](ThemesRFun/01_Measurements/App_icon)
+   * [#45 Mobile Page](ThemesRFun/01_Measurements/Mobile_page)
 
 
 
