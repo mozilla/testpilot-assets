@@ -1,3 +1,5 @@
+# Instructions for adding new content
+
 This document contains instructions for cloning this repo, adding local changes and committing them.
 
 ## Preamble
