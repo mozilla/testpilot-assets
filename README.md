@@ -3,6 +3,7 @@
     * [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
 * Measurements:
     * [UI Assets](Test_Pilot_Website/00_Assets/Photonized_homepage)
+    * [Mobile Experiment Integration](Test_Pilot_Website/01_Measurements/Mobile_experiment_integration_20180413/)
     * [#2418 News summary](Test_Pilot_Website/2418_News_summary)
     * [#2418 News summary-hover](Test_Pilot_Website/2418_News_summary_hover)
     * [#2419 News alerts badge](Test_Pilot_Website/2419_News_alerts_Badge)
