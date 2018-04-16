@@ -1,9 +1,9 @@
 ## Test Pilot Website
-* Github Repo: 
+* Github Repo:
     * [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
 * Measurements:
     * [UI Assets](Test_Pilot_Website/00_Assets/Photonized_homepage)
-    * [Mobile Experiment Integration](Test_Pilot_Website/01_Measurements/Mobile_experiment_integration_20180413/)
+    * [Mobile Experiment Integration](Test_Pilot_Website/01_Measurements/Mobile_experiment_integration/)
     * [#2418 News summary](Test_Pilot_Website/2418_News_summary)
     * [#2418 News summary-hover](Test_Pilot_Website/2418_News_summary_hover)
     * [#2419 News alerts badge](Test_Pilot_Website/2419_News_alerts_Badge)
@@ -26,7 +26,7 @@
 
 ---
 ## Test Pilot Contribute (good-first-bug)
-* Github Repo: 
+* Github Repo:
     * [https://github.com/chuckharmston/testpilot-contribute/](https://github.com/chuckharmston/testpilot-contribute/)
 * Measurements:
     * [UI Measurements](Test_Pilot_Contribute/01_Measurements/)
@@ -35,7 +35,7 @@
 
 ---
 ## Firefox Screenshots
-* Github Repo: 
+* Github Repo:
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
 * Measurements:
     * [Annotation Icon & Spacing](Firefox_Screenshots/Annotation/Annotation-icon-spacing)
@@ -52,8 +52,8 @@
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
 
 ---
-## Send 
-* Github Repo: 
+## Send
+* Github Repo:
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
@@ -76,8 +76,8 @@
     * [Send_Password_Proposal2](Send/Send_Password_2)
 
 ---
-## Speak To Me 
-* Github Repo: 
+## Speak To Me
+* Github Repo:
     * [https://github.com/mozilla/speaktome](https://github.com/mozilla/speaktome)
 * Measurements:
     * [UI Measurements](Speak_To_Me/01_Measurements)
@@ -85,17 +85,17 @@
 
 ---
 ## Containers
-* Github Repo: 
+* Github Repo:
     * [https://github.com/mozilla/testpilot-containers](https://github.com/mozilla/testpilot-containers)
 
 ---
-## Min Vid 
-* Github Repo: 
+## Min Vid
+* Github Repo:
     * [https://github.com/meandavejustice/min-vid](https://github.com/meandavejustice/min-vid)
 
 ---
 ## Tab Split
-* Github Repo: 
+* Github Repo:
    * [https://github.com/mozilla/tab-split](https://github.com/mozilla/tab-split)
 * Measurements:
    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Tab_Split/Tab_Split_visual_spec/assets)
@@ -104,7 +104,7 @@
 
 ---
 ## ThemesRFun
-* Github Repo: 
+* Github Repo:
    * [https://github.com/mozilla/ThemesRFun/](https://github.com/mozilla/ThemesRFun/)
 * Measurements:
    * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/ThemesRFun/00_Assets)
