@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Pencil</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tools" transform="translate(-119.000000, -39.000000)" fill="#3E3D40" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(94.000000, 32.000000)">
+                <g id="Pencil" transform="translate(25.000000, 7.000000)">
+                    <polygon id="Shape" points="1.29411765 16.5454545 0 21 4.52941176 19.7272727"></polygon>
+                    <rect id="Rectangle-path" transform="translate(18.693047, 2.657725) rotate(135.000000) translate(-18.693047, -2.657725) " x="17.1724737" y="0.430473632" width="3.04114731" height="4.45450274"></rect>
+                    <rect id="Rectangle-path" transform="translate(10.285712, 10.880876) rotate(-45.000000) translate(-10.285712, -10.880876) " x="1.22697511" y="8.653625" width="18.1174733" height="4.45450274"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
