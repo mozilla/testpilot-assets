@@ -1,3 +1,9 @@
+## Hello Friend
+
+This is where we keep specs and assets related to various Test Pilot experiments.
+
+If you happen to work on Test Pilot and want to commit specs to this repository [check out this doc](/docs/README.md).
+
 ## Test Pilot Website
 * Github Repo:
     * [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
