@@ -1,9 +1,3 @@
-## Hello Friend
-
-This is where we keep specs and assets related to various Test Pilot experiments.
-
-If you happen to work on Test Pilot and want to commit specs to this repository [check out this doc](/docs/README.md).
-
 ## Test Pilot Website
 * Github Repo:
     * [https://github.com/mozilla/testpilot](https://github.com/mozilla/testpilot)
@@ -64,6 +58,7 @@ If you happen to work on Test Pilot and want to commit specs to this repository 
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
+    * [Send Redesign](Send/Send_Redesign)
     * [00 Logo design](Send/Send_logo_design)
     * [01 Homepage](Send/Send_01_homepage)
     * [02 Homepage drag file](Send/Send_02_homepage_drag_file)
