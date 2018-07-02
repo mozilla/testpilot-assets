@@ -117,5 +117,11 @@
    * [#18 Themer Icon](ThemesRFun/01_Measurements/App_icon)
    * [#45 Mobile Page](ThemesRFun/01_Measurements/Mobile_page)
 
+---
+## Email Tabs
+* Measurements:
+   * [UI Measurements](EmailTabs/01_Measurements/EmailTabsv1)
+   * [UI Assets](EmailTabs/00_Assets/EmailTabsv1)
+
 
 
