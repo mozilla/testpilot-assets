@@ -40,6 +40,7 @@
 * Github Repo:
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
 * Measurements:
+    * [NEW Firefox Accounts](Firefox_Screenshots/NEW_FxA_Integration)
     * [Advanced Annotations](Firefox_Screenshots/Advanced_Annotations)
     * [Annotation Icon & Spacing](Firefox_Screenshots/Annotation/Annotation-icon-spacing)
     * [#2157 Save full page](Firefox_Screenshots/Save%20fullpage)
