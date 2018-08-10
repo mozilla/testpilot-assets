@@ -54,6 +54,7 @@
     * [#2582 Add option to Copy image](Firefox_Screenshots/FFSS_Copy)
     * [#3500 Indefinitely Indicator](Firefox_Screenshots/FFSS_Indicator)
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Firefox_Screenshots/00_Assets)
+    * [UI Assets for new FxA](https://github.com/johngruen/ss-fxa-demo/tree/master/public)
 
 ---
 ## Send
