@@ -63,8 +63,8 @@
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
     * [Send Redesign](Send/Send_Redesign)
-    * [Send Mobile](Send/Send_Mobile/Screens)
-    * [Send Mobile Cards](Send/Send_Mobile/Card_types)
+    * [Send Mobile](Send/Send_mobile/Screens)
+    * [Send Mobile Cards](Send/Send_mobile/Card_types)
     * [00 Logo design](Send/Send_logo_design)
     * [01 Homepage](Send/Send_01_homepage)
     * [02 Homepage drag file](Send/Send_02_homepage_drag_file)
