@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FxA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="#4791" transform="translate(-1113.000000, -303.000000)" fill="#B5007F" fill-rule="nonzero">
+            <g id="Group-8" transform="translate(972.000000, 277.000000)">
+                <g id="Heart" transform="translate(141.000000, 26.000000)">
+                    <path d="M20.7274507,1.36450775 C18.2705306,-0.715670426 14.6165345,-0.341505616 12.3613688,1.97029839 L11.4781329,2.87453002 L10.594897,1.97029839 C8.34421479,-0.341505616 4.68573525,-0.715670426 2.22881518,1.36450775 C-0.586779367,3.75203559 -0.734732583,8.03711354 1.78495553,10.6250868 L10.4603941,19.5248641 C11.020823,20.0994743 11.9309594,20.0994743 12.4913883,19.5248641 L21.1668269,10.6250868 C23.6909984,8.03711354 23.5430452,3.75203559 20.7274507,1.36450775 Z" id="Shape-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
