@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/et7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/et7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.000000)" fill="#3D3D3D" fill-rule="nonzero">
+            <g id="Tab">
+                <path d="M5,10 L1,10 C0.44771525,10 -6.76353751e-17,9.55228475 0,9 C6.76353751e-17,8.44771525 0.44771525,8 1,8 L2,8 L2,2 C2,0.8954305 2.8954305,0 4,0 L12,0 C13.1045695,0 14,0.8954305 14,2 L14,5 L6,5 C5.44771525,5 5,5.44771525 5,6 L5,10 Z" id="Combined-Shape"></path>
+            </g>
+            <path d="M7.1209784,7 C7.18016201,7.01473698 7.23762584,7.04062605 7.29029375,7.07818244 L10.4852814,9.35646141 L13.680269,7.07818244 C13.7329369,7.04062605 13.7904007,7.01473698 13.8495844,7 L7.1209784,7 Z M14,8.07839163 L10.7755751,10.3776617 C10.6018664,10.5015298 10.3686964,10.5015298 10.1949876,10.3776617 L7,8.09938272 L7,12 L14,12 L14,8.07839163 Z M7,6 L14,6 C14.5522847,6 15,6.44771525 15,7 L15,12 C15,12.5522847 14.5522847,13 14,13 L7,13 C6.44771525,13 6,12.5522847 6,12 L6,7 C6,6.44771525 6.44771525,6 7,6 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
