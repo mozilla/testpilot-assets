@@ -40,6 +40,14 @@
 * Github Repo:
     * [https://github.com/mozilla-services/screenshots](https://github.com/mozilla-services/screenshots)
 * Measurements:
+    * [#4792 & #4793 FxA_Tour](Firefox_Screenshots/FxA_tour)
+    * [#4878 FxA_FavPromo](Firefox_Screenshots/FxA_fav_promo)
+    * [#4847 FxA_Sync](Firefox_Screenshots/FxA_Sync)
+    * [#4824 FxA_Survey](Firefox_Screenshots/FxA_Survey)
+    * [#4790 FxA_Onboarding](Firefox_Screenshots/FxA_Onboarding)
+    * [#4848 FxA_Header](Firefox_Screenshots/FxA_Header)
+    * [#4684 FxA_Banner](Firefox_Screenshots/FxA_Banner)
+    * [#4791 FxA_Favorite Shot](Firefox_Screenshots/FxA-4791)
     * [NEW Firefox Accounts](Firefox_Screenshots/NEW_FxA_Integration)
     * [Advanced Annotations](Firefox_Screenshots/Advanced_Annotations)
     * [Annotation Icon & Spacing](Firefox_Screenshots/Annotation/Annotation-icon-spacing)
@@ -62,6 +70,7 @@
     * [https://github.com/mozilla/something-awesome](https://github.com/mozilla/something-awesome)
 * Measurements:
     * [UI Assets](https://github.com/mozilla/testpilot-assets/tree/master/Send/00_Assets)
+    * [Send_V2](Send/Firefox_Send_V2)
     * [Send Redesign](Send/Send_Redesign)
     * [Send Mobile](Send/Send_mobile/Screens)
     * [Send Mobile Cards](Send/Send_mobile/Card_types)
